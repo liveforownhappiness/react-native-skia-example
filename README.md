@@ -7,12 +7,11 @@ This is a **Clone coding** from [**react-native-skia**](https://shopify.github.i
 
 ## 
 ## MATRIX 
-## <video src='./src/assets/matrix.mp4' autoplay loop muted width=150 height=200>
-
-
+https://github.com/liveforownhappiness/react-native-skia-example/assets/61953281/ce118ceb-c268-43ec-825d-0e463a41d929
 
 ## HUE
-## <video src='./src/assets/hue.mp4' autoplay loop muted width=150 height=200>
+https://github.com/liveforownhappiness/react-native-skia-example/assets/61953281/48f375d6-0262-447d-a14a-e3d48da91ba5
+
 
 # Learn More
 
