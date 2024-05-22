@@ -36,5 +36,19 @@
   "engines": {
     "node": ">=18"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liveforownhappiness/react-native-skia-example.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-skia",
+    "react-native-reanimated"
+  ],
+  "author": "liveforownhappiness@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liveforownhappiness/react-native-skia-example/issues"
+  },
   "homepage": "https://liveforownhappiness.tistory.com/"
 }
