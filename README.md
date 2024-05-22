@@ -7,11 +7,12 @@ This is a **Clone coding** from [**react-native-skia**](https://shopify.github.i
 ##
 
 ## MATRIX
-<img src="./src/assets/matrix.gif" width="200" height="auto" />
+
+<img src="./preview/matrix.gif" width="200" height="auto" />
 
 ## HUE
-<img src="./src/assets/hue.gif" width="200" height="auto" />
 
+<img src="./preview/hue.gif" width="200" height="auto" />
 
 # Learn More
 
