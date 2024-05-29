@@ -18,6 +18,10 @@ This is a **Clone coding** from [**react-native-skia**](https://shopify.github.i
 
 <img src="./preview/wallpaper.png" width="200" height="auto" />
 
+## AURORA
+
+<img src="./preview/aurora.gif" width="200" height="auto" />
+
 # Learn More
 
 To learn more about react-native-skia, take a look at the following resources:
